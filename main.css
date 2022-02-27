@@ -21,10 +21,10 @@
 }
 #logobody{
     text-align:center;
-    position:relative;
+    position:absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 550%);
+    transform: translate(-50%, 150%);
 
 }
 .fa{
